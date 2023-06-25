@@ -1,5 +1,8 @@
 # enhanced_cloud_firestore
 
+## IMPORTANT !!!
+## This project has been migrated to the following [monorepo](https://github.com/sliit-foss/dart-cookbook) and will no longer be maintained here.
+
 An enhanced version of the cloud firestore dart package with support for filtering, sorting, limiting, error handling and success scenarios
 
 ## Getting started
